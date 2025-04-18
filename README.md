@@ -22,8 +22,7 @@ Matplotlib for visualization
 
 ## Usage
 📌 Run on Kaggle (Recommended)
-Go to the Kaggle Notebook link:
-(Add your notebook URL here)
+Upload this code in kaggle environment. 
 
 Add dataset :- ([https://www.kaggle.com/datasets/weipengzhang/adobe-fivek](https://www.kaggle.com/datasets/weipengzhang/adobe-fivek))
 Click "Copy and Edit" (top right) to run it in your own workspace.
